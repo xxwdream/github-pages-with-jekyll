@@ -1,1 +1,4 @@
-xxwdream-patch-3
+---
+title: "Your blog post title"
+date: YYYY-MM-DD
+---
